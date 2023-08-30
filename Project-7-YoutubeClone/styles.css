@@ -54,6 +54,9 @@
     width: 30px;
 }
 
+.navimg{
+  padding-left: 15px;
+}
 
 .side-nav{
     display: flex;
@@ -184,3 +187,5 @@ main{
   gap: 10px;
 
 }
+
+
